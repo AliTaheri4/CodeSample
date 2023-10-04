@@ -1,0 +1,11 @@
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Domain\bin\Debug\net6.0\MarketData.Domain.deps.json
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Domain\bin\Debug\net6.0\MarketData.Domain.dll
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Domain\bin\Debug\net6.0\ref\MarketData.Domain.dll
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Domain\bin\Debug\net6.0\MarketData.Domain.pdb
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Domain\obj\Debug\net6.0\MarketData.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Domain\obj\Debug\net6.0\MarketData.Domain.AssemblyInfoInputs.cache
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Domain\obj\Debug\net6.0\MarketData.Domain.AssemblyInfo.cs
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Domain\obj\Debug\net6.0\MarketData.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Domain\obj\Debug\net6.0\MarketData.Domain.dll
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Domain\obj\Debug\net6.0\ref\MarketData.Domain.dll
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Domain\obj\Debug\net6.0\MarketData.Domain.pdb

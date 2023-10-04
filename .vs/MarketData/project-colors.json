@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b4dd20db-531a-4d79-a037-59dd4d47fae9": {
+      "ProjectGuid": "b4dd20db-531a-4d79-a037-59dd4d47fae9",
+      "DisplayName": "MarketData.WebApi",
+      "ColorIndex": 0
+    },
+    "b17e4675-2464-4afd-85c5-199905b192cf": {
+      "ProjectGuid": "b17e4675-2464-4afd-85c5-199905b192cf",
+      "DisplayName": "MarketData.WebApi",
+      "ColorIndex": 1
+    },
+    "6bedbdf0-d562-4233-84ff-27c6be92dda7": {
+      "ProjectGuid": "6bedbdf0-d562-4233-84ff-27c6be92dda7",
+      "DisplayName": "MarketData.WebApi",
+      "ColorIndex": 2
+    },
+    "511fae80-50eb-4a3d-861c-b04052a7a1e1": {
+      "ProjectGuid": "511fae80-50eb-4a3d-861c-b04052a7a1e1",
+      "DisplayName": "MarketData.Domain",
+      "ColorIndex": 3
+    },
+    "aadd502f-ff17-4604-a1fd-5d494220e340": {
+      "ProjectGuid": "aadd502f-ff17-4604-a1fd-5d494220e340",
+      "DisplayName": "MarketData.Application",
+      "ColorIndex": 4
+    },
+    "3c7fc15a-7781-49c3-8291-ff05ac370592": {
+      "ProjectGuid": "3c7fc15a-7781-49c3-8291-ff05ac370592",
+      "DisplayName": "MarketData.WebApi",
+      "ColorIndex": 5
+    },
+    "a1c57b2b-6b9a-4ed5-be65-0a3c8fa14da6": {
+      "ProjectGuid": "a1c57b2b-6b9a-4ed5-be65-0a3c8fa14da6",
+      "DisplayName": "MarketData.Infrastructure",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "9b020d72-f32d-4067-90f9-dda852780a2c": {
+      "ProjectGuid": "9b020d72-f32d-4067-90f9-dda852780a2c",
+      "DisplayName": "WebApplication1",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

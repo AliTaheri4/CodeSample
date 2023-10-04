@@ -1,0 +1,15 @@
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Infrastructure\bin\Debug\net6.0\MarketData.Infrastructure.deps.json
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Infrastructure\bin\Debug\net6.0\MarketData.Infrastructure.dll
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Infrastructure\bin\Debug\net6.0\ref\MarketData.Infrastructure.dll
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Infrastructure\bin\Debug\net6.0\MarketData.Infrastructure.pdb
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Infrastructure\bin\Debug\net6.0\MarketData.Domain.dll
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Infrastructure\bin\Debug\net6.0\MarketData.Domain.pdb
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Infrastructure\obj\Debug\net6.0\MarketData.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Infrastructure\obj\Debug\net6.0\MarketData.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Infrastructure\obj\Debug\net6.0\MarketData.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Infrastructure\obj\Debug\net6.0\MarketData.Infrastructure.AssemblyInfo.cs
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Infrastructure\obj\Debug\net6.0\MarketData.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Infrastructure\obj\Debug\net6.0\MarketData.Infrastructure.csproj.CopyComplete
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Infrastructure\obj\Debug\net6.0\MarketData.Infrastructure.dll
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Infrastructure\obj\Debug\net6.0\ref\MarketData.Infrastructure.dll
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Infrastructure\obj\Debug\net6.0\MarketData.Infrastructure.pdb

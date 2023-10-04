@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "g0r8/9kb6GR6qCGKMMlpx7KW8jDnpM+Sycwto6RtNKc=",
+  "Source": "MarketData.WebApi",
+  "BasePath": "_content/MarketData.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

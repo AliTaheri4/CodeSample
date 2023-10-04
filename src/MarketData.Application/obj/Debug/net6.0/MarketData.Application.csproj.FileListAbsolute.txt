@@ -1,0 +1,17 @@
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Application\bin\Debug\net6.0\MarketData.Application.deps.json
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Application\bin\Debug\net6.0\MarketData.Application.dll
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Application\bin\Debug\net6.0\ref\MarketData.Application.dll
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Application\bin\Debug\net6.0\MarketData.Application.pdb
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Application\bin\Debug\net6.0\MarketData.Domain.dll
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Application\bin\Debug\net6.0\MarketData.Infrastructure.dll
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Application\bin\Debug\net6.0\MarketData.Infrastructure.pdb
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Application\bin\Debug\net6.0\MarketData.Domain.pdb
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Application\obj\Debug\net6.0\MarketData.Application.csproj.AssemblyReference.cache
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Application\obj\Debug\net6.0\MarketData.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Application\obj\Debug\net6.0\MarketData.Application.AssemblyInfoInputs.cache
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Application\obj\Debug\net6.0\MarketData.Application.AssemblyInfo.cs
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Application\obj\Debug\net6.0\MarketData.Application.csproj.CoreCompileInputs.cache
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Application\obj\Debug\net6.0\MarketData.Application.csproj.CopyComplete
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Application\obj\Debug\net6.0\MarketData.Application.dll
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Application\obj\Debug\net6.0\ref\MarketData.Application.dll
+C:\Users\Ali Taheri\source\repos\MarketData\src\MarketData.Application\obj\Debug\net6.0\MarketData.Application.pdb
